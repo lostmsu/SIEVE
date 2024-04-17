@@ -8,7 +8,7 @@
     <AssemblyName>Caching.Sieve</AssemblyName>
 
     <!-- Package stuff -->
-    <Version>0.0.1</Version>
+    <Version>0.0.1.1</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageLicenseFile Condition="$(PackageLicenseExpression) == ''">LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
